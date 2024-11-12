@@ -1,0 +1,30 @@
+*{box-sizing:border-box;
+ font-family:Arial, hevetica, sans-serif;
+}
+
+boby {margin: 0;
+  font-family: arial,helvetica,sans-serif;
+  background-color: #8bc9fa;}
+
+.topnav{overflow: hidden;
+background-color: #333;}
+
+  .topnav a{float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 18px 20px;
+            text-decoration: none;}
+
+
+.footer {background-color:#c0ced6;
+  color:black;
+  padding: 25px: ;
+  text-align: center;}
+
+
+  .menus
+
+  /**codigo SCC para la seccion de Lugares Tursiticos de Honduras**/
+  .Lugares Tursiticos de Honduras .content{
+  barkground:linear-gradient (#ffffff,#00ffff);}
